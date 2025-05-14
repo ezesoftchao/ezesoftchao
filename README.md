@@ -33,7 +33,7 @@ Trabajo principalmente con **Flutter** y **Kotlin**, construyendo soluciones rea
 
 ### 🚀 Proyectos Destacados
 
-- 📱 **La Nave** – app de transporte tipo Uber, hecha 100% en Kotlin nativo.
+- 📱 **La Nave** – app de transporte tipo Uber, hecha 100% en Flutter.
 - 📍 **iVamos** – app de guaguas en tiempo real para Cuba, multiplataforma con Flutter.
 - 📊 **DatosCuba** – app para monitorear el consumo de datos móviles (Kotlin).
 - 🎶 **FlowMusic** – plataforma de streaming estilo Spotify (descontinuada).
@@ -55,7 +55,7 @@ Trabajo principalmente con **Flutter** y **Kotlin**, construyendo soluciones rea
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezesoftchao&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielchao&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezesoftchao&theme=radical" alt="streak" />
 </p>
 
 ---

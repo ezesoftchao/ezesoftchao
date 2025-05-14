@@ -53,7 +53,7 @@ Trabajo principalmente con **Flutter** y **Kotlin**, construyendo soluciones rea
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezequielchao&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezesoftchao&show_icons=true&theme=radical" alt="stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielchao&theme=radical" alt="streak" />
 </p>
@@ -62,7 +62,7 @@ Trabajo principalmente con **Flutter** y **Kotlin**, construyendo soluciones rea
 
 ### 🧩 Un poco más sobre mí
 
-- 🐧 Linux user de corazón
+- 🍎 MacOS user de corazón
 - 🛵 Amante de las motos y la carretera
 - 🐶 Simba, mi perrito, siempre está en la jugada
 - 🔋 En constante búsqueda de balance entre productividad y salud mental
